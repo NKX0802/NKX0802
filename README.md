@@ -1,39 +1,60 @@
-## Hi there 👋
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,django,postgres,tailwind,vite,&theme=light" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,django,docker,aws,git,java,spring,postgres&theme=dark" />
-  </a>
-</p>
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>
-      JavaScript
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br>
-      Python
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>
-      React
-    </td>
-  </tr>
-</table>
-<!--
-**NKX0802/NKX0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <style>
+    .skill-icon {
+      position: relative;
+      display: inline-block;
+      margin: 5px;
+    }
+    .skill-icon img {
+      width: 48px;
+      height: 48px;
+      display: block;
+    }
+    .skill-icon .tooltip {
+      position: absolute;
+      bottom: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #333;
+      color: white;
+      padding: 5px 10px;
+      border-radius: 4px;
+      font-size: 12px;
+      white-space: nowrap;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.3s;
+      margin-bottom: 5px;
+    }
+    .skill-icon:hover .tooltip {
+      opacity: 1;
+    }
+  </style>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+    <div class="skill-icon">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+      <div class="tooltip">JavaScript</div>
+    </div>
+    <div class="skill-icon">
+      <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+      <div class="tooltip">Python</div>
+    </div>
+    <div class="skill-icon">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" />
+      <div class="tooltip">React</div>
+    </div>
+    <div class="skill-icon">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+      <div class="tooltip">Node.js</div>
+    </div>
+    <div class="skill-icon">
+      <img src="https://skillicons.dev/icons?i=django" alt="Django" />
+      <div class="tooltip">Django</div>
+    </div>
+    <div class="skill-icon">
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+      <div class="tooltip">Docker</div>
+    </div>
+  </div>
+</div>

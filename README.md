@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,django,docker,aws,git,java,spring,postgres" />
+  </a>
+</p>
 <!--
 **NKX0802/NKX0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

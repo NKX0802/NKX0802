@@ -1,60 +1,38 @@
-<div align="center">
-  <style>
-    .skill-icon {
-      position: relative;
-      display: inline-block;
-      margin: 5px;
-    }
-    .skill-icon img {
-      width: 48px;
-      height: 48px;
-      display: block;
-    }
-    .skill-icon .tooltip {
-      position: absolute;
-      bottom: 100%;
-      left: 50%;
-      transform: translateX(-50%);
-      background: #333;
-      color: white;
-      padding: 5px 10px;
-      border-radius: 4px;
-      font-size: 12px;
-      white-space: nowrap;
-      opacity: 0;
-      pointer-events: none;
-      transition: opacity 0.3s;
-      margin-bottom: 5px;
-    }
-    .skill-icon:hover .tooltip {
-      opacity: 1;
-    }
-  </style>
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;700&display=swap" rel="stylesheet">
 
-  <div>
-    <div class="skill-icon">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-      <div class="tooltip">JavaScript</div>
-    </div>
-    <div class="skill-icon">
-      <img src="https://skillicons.dev/icons?i=py" alt="Python" />
-      <div class="tooltip">Python</div>
-    </div>
-    <div class="skill-icon">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" />
-      <div class="tooltip">React</div>
-    </div>
-    <div class="skill-icon">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-      <div class="tooltip">Node.js</div>
-    </div>
-    <div class="skill-icon">
-      <img src="https://skillicons.dev/icons?i=django" alt="Django" />
-      <div class="tooltip">Django</div>
-    </div>
-    <div class="skill-icon">
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-      <div class="tooltip">Docker</div>
-    </div>
-  </div>
+## Skills
+
+<div align="center" style="font-family: 'Quicksand', sans-serif;">
+
+### Frontend & Styling
+<div>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" height="50" />
+</div>
+<p style="font-size: 12px; color: #666;">HTML • CSS • Tailwind • React • Vite</p>
+
+### Backend & Database
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="50" height="50" />
+</div>
+<p style="font-size: 12px; color: #666;">Node.js • Supabase</p>
+
+### Languages
+<div>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" />
+</div>
+<p style="font-size: 12px; color: #666;">JavaScript • Python</p>
+
+### Tools & Environment
+<div>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50" />
+</div>
+<p style="font-size: 12px; color: #666;">VS Code • Figma</p>
+
 </div>

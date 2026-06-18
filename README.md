@@ -1,38 +1,31 @@
-<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;700&display=swap" rel="stylesheet">
+# I'm <code>Ng Khai Xiang 🐛</code>
+#### <code>Full Stack Developer</code>
+#### Final-year Diploma ICT student at Asia Pacific University. Experienced in designing, building and deploying full-stack web applications using React, Next.js and PHP, passionate about AI-integrated development.
+#### Available for a full-time internship from 17 August to 6 November 2026.
 
-## Skills
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NKX0802&show_icons=true&locale=en&layout=compact" alt="NKX0802" /></p>
 
-<div align="center" style="font-family: 'Quicksand', sans-serif;">
+<br clear="left"/>
 
-### Frontend & Styling
-<div>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" height="50" />
-</div>
-<p style="font-size: 12px; color: #666;">HTML • CSS • Tailwind • React • Vite</p>
+#### Connect with me:
+<p>
+  <a href="https://www.linkedin.com/in/ng-khai-xiang-595b16312/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="https://github.com/NKX0802">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
+  </a>
+</p>
 
-### Backend & Database
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="50" height="50" />
-</div>
-<p style="font-size: 12px; color: #666;">Node.js • Supabase</p>
+---
 
-### Languages
-<div>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" />
-</div>
-<p style="font-size: 12px; color: #666;">JavaScript • Python</p>
+## 🛠️ Skills
 
-### Tools & Environment
-<div>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50" />
-</div>
-<p style="font-size: 12px; color: #666;">VS Code • Figma</p>
-
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,nodejs,py,supabase,vscode,figma" alt="Skills" />
+  </p>
+  <p>
+    <code>React</code> · <code>Tailwind</code> · <code>HTML</code> · <code>CSS</code> · <code>JavaScript</code> · <code>Node.js</code> · <code>Python</code> · <code>Supabase</code> · <code>VS Code</code> · <code>Figma</code>
+  </p>
 </div>

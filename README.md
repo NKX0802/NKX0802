@@ -1,11 +1,12 @@
 # I'm <code>Ng Khai Xiang 🐛</code>
-#### <code>Full Stack Developer</code>
+#### <code>Front End Developer | Full Stack Developer</code>
 #### Final-year Diploma ICT student at Asia Pacific University. Experienced in designing, building and deploying full-stack web applications using React, Next.js and PHP, passionate about AI-integrated development.
 #### Available for a full-time internship from 17 August to 6 November 2026.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NKX0802&show_icons=true&locale=en&layout=compact" alt="NKX0802" /></p>
 
-<br clear="left"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NKX0802&show_icons=true&locale=en&layout=compact" alt="NKX0802" />
+</p>
 
 #### Connect with me:
 <p>
@@ -28,4 +29,8 @@
   <p>
     <code>React</code> · <code>Tailwind</code> · <code>HTML</code> · <code>CSS</code> · <code>JavaScript</code> · <code>Node.js</code> · <code>Python</code> · <code>Supabase</code> · <code>VS Code</code> · <code>Figma</code>
   </p>
+  <p>
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="GIF" width="250" />
+  </p>
 </div>
+

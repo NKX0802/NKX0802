@@ -1,7 +1,7 @@
 # I'm <code>Ng Khai Xiang 🐛</code>
 #### <code>Front End Developer | Full Stack Developer</code>
 #### Final-year Diploma ICT student at Asia Pacific University. Experienced in designing, building and deploying full-stack web applications using React, Next.js and PHP, passionate about AI-integrated development.
-#### Available for a full-time internship from 17 August to 6 November 2026.
+#### Available for a full-time internship from 17 August to 6 November 2026 (12 weeks).
 
 
 <p>
@@ -24,10 +24,10 @@
 
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,nodejs,py,supabase,vscode,figma" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,nodejs,py,supabase,nextjs,vite,vscode,figma" alt="Skills" />
   </p>
   <p>
-    <code>React</code> · <code>Tailwind</code> · <code>HTML</code> · <code>CSS</code> · <code>JavaScript</code> · <code>Node.js</code> · <code>Python</code> · <code>Supabase</code> · <code>VS Code</code> · <code>Figma</code>
+    <code>React</code> · <code>Tailwind</code> · <code>HTML</code> · <code>CSS</code> · <code>JavaScript</code> · <code>Node.js</code> · <code>Python</code> · <code>Supabase</code> · <code>NextJS</code> · <code>Vite</code> · <code>VS Code</code> · <code>Figma</code>
   </p>
   <p>
   <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="GIF" width="250" />

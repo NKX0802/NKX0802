@@ -1,6 +1,6 @@
 # I'm <code>Ng Khai Xiang 🐛</code>
 #### <code>Front End Developer | Full Stack Developer</code>
-#### Final-year Diploma ICT student at Asia Pacific University. Experienced in designing, building and deploying full-stack web applications using React, Next.js and PHP, passionate about AI-integrated development.
+#### Final-year Diploma ICT student at Asia Pacific University. Experienced in designing, building and deploying full-stack web applications using React, Next.js, Vite and PHP, passionate about AI-integrated development.
 #### Available for a full-time internship from 17 August to 6 November 2026 (12 weeks).
 
 

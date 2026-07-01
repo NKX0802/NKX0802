@@ -4,9 +4,8 @@
 #### Available for a full-time internship from 17 August to 6 November 2026 (12 weeks).
 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NKX0802&show_icons=true&locale=en&layout=compact" alt="NKX0802" />
-</p>
+
+
 
 #### Connect with me:
 <p>
